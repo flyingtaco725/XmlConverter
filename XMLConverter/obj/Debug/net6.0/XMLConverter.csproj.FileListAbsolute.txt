@@ -1,0 +1,15 @@
+C:\Users\conor\source\repos\XMLConverter\XMLConverter\bin\Debug\net6.0\XMLConverter.exe
+C:\Users\conor\source\repos\XMLConverter\XMLConverter\bin\Debug\net6.0\XMLConverter.deps.json
+C:\Users\conor\source\repos\XMLConverter\XMLConverter\bin\Debug\net6.0\XMLConverter.runtimeconfig.json
+C:\Users\conor\source\repos\XMLConverter\XMLConverter\bin\Debug\net6.0\XMLConverter.dll
+C:\Users\conor\source\repos\XMLConverter\XMLConverter\bin\Debug\net6.0\ref\XMLConverter.dll
+C:\Users\conor\source\repos\XMLConverter\XMLConverter\bin\Debug\net6.0\XMLConverter.pdb
+C:\Users\conor\source\repos\XMLConverter\XMLConverter\obj\Debug\net6.0\XMLConverter.csproj.AssemblyReference.cache
+C:\Users\conor\source\repos\XMLConverter\XMLConverter\obj\Debug\net6.0\XMLConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conor\source\repos\XMLConverter\XMLConverter\obj\Debug\net6.0\XMLConverter.AssemblyInfoInputs.cache
+C:\Users\conor\source\repos\XMLConverter\XMLConverter\obj\Debug\net6.0\XMLConverter.AssemblyInfo.cs
+C:\Users\conor\source\repos\XMLConverter\XMLConverter\obj\Debug\net6.0\XMLConverter.csproj.CoreCompileInputs.cache
+C:\Users\conor\source\repos\XMLConverter\XMLConverter\obj\Debug\net6.0\XMLConverter.dll
+C:\Users\conor\source\repos\XMLConverter\XMLConverter\obj\Debug\net6.0\ref\XMLConverter.dll
+C:\Users\conor\source\repos\XMLConverter\XMLConverter\obj\Debug\net6.0\XMLConverter.pdb
+C:\Users\conor\source\repos\XMLConverter\XMLConverter\obj\Debug\net6.0\XMLConverter.genruntimeconfig.cache

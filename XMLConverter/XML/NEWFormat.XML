@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<onecall:OneCallReferral xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:onecall="http://www.pelicancorp.com/onecall" xsi:schemaLocation="https://www.pelicancorp.com/onecall/usmi.xsd">
+  <onecall:ReferralDetails>
+    <onecall:MessageVersionNumber>1.0.10</onecall:MessageVersionNumber>
+    <onecall:From>MISS DIG 811</onecall:From>
+    <onecall:RequestMedium>Web</onecall:RequestMedium>
+    <onecall:UtilityID>10506</onecall:UtilityID>
+    <onecall:StationCode>CORCOMFBR</onecall:StationCode>
+    <onecall:UtilityName>Cormier Communications Fiber</onecall:UtilityName>
+    <onecall:To>Kristyn Cormier</onecall:To>
+    <onecall:JobNumber>1296</onecall:JobNumber>
+    <onecall:TicketNumber>2021111000014</onecall:TicketNumber>
+    <onecall:TicketRevisionNumber>000</onecall:TicketRevisionNumber>
+    <onecall:PreviousTicketNumber xsi:nil="true" />
+    <onecall:SequenceNumber>1</onecall:SequenceNumber>
+    <onecall:RequestDateTime>2021-11-10T13:05:19.462528-05:00</onecall:RequestDateTime>
+    <onecall:WorkToBeginDate>2021-11-16T00:00:00-05:00</onecall:WorkToBeginDate>
+    <onecall:WorkLegalStartDate>2021-11-16T00:00:00-05:00</onecall:WorkLegalStartDate>
+    <onecall:WorkCompletionDate>2021-11-30T00:00:00-05:00</onecall:WorkCompletionDate>
+    <onecall:WorkExpirationDate>2021-12-07T23:59:59-05:00</onecall:WorkExpirationDate>
+    <onecall:IsEmergency>false</onecall:IsEmergency>
+    <onecall:TicketStatus>Original</onecall:TicketStatus>
+    <onecall:TicketType>Normal - 21 day</onecall:TicketType>
+    <onecall:WorkType>CATV</onecall:WorkType>
+    <onecall:Activity>Service Install</onecall:Activity>
+    <onecall:ExcavationMethod>Trenching</onecall:ExcavationMethod>
+    <onecall:ExcavationDepth>12in to 24in</onecall:ExcavationDepth>
+    <onecall:ExcavationSize>1886 sq m</onecall:ExcavationSize>
+    <onecall:AreaMarked>Yes-Stakes</onecall:AreaMarked>
+    <onecall:UserReference>Order#66</onecall:UserReference>
+    <onecall:WorkingOnBehalfOf>Utility</onecall:WorkingOnBehalfOf>
+    <onecall:WorkingForAuthority>COMCAST</onecall:WorkingForAuthority>
+    <onecall:StationList>
+      <onecall:StationCode>OAKCDRSTRM</onecall:StationCode>
+      <onecall:StationCode>DSGOAKCDR</onecall:StationCode>
+      <onecall:StationCode>DSGROCHLS</onecall:StationCode>
+      <onecall:StationCode>ROCHLSWTR</onecall:StationCode>
+      <onecall:StationCode>ROCHLSSANI</onecall:StationCode>
+      <onecall:StationCode>ROCHLSSTRM</onecall:StationCode>
+      <onecall:StationCode>DE0012</onecall:StationCode>
+      <onecall:StationCode>DSGDE</onecall:StationCode>
+      <onecall:StationCode>ATTD</onecall:StationCode>
+      <onecall:StationCode>CORCOMFBR</onecall:StationCode>
+      <onecall:StationCode>HORNPH</onecall:StationCode>
+      <onecall:StationCode>PCT1</onecall:StationCode>
+      <onecall:StationCode>GRUZFBR</onecall:StationCode>
+    </onecall:StationList>
+  </onecall:ReferralDetails>
+  <onecall:CustomerDetails>
+    <onecall:ID>1102496</onecall:ID>
+    <onecall:Name>Kristyn Cormier</onecall:Name>
+    <onecall:Company />
+    <onecall:UserType />
+    <onecall:UserIndustry />
+    <onecall:Phone>2483706446</onecall:Phone>
+    <onecall:Mobile />
+    <onecall:EmailAddress>kcormier@missdig811.org</onecall:EmailAddress>
+  </onecall:CustomerDetails>
+  <onecall:LocationDetails>
+    <onecall:Address>3071 Greenwood St</onecall:Address>
+    <onecall:CityTown>Rochester Hills</onecall:CityTown>
+    <onecall:State></onecall:State>
+    <onecall:NearestCrossStreet>Auburn Rd.</onecall:NearestCrossStreet>
+    <onecall:SecondNearestCrossStreet>Adams Rd.</onecall:SecondNearestCrossStreet>
+    <onecall:OnsiteContactCompany xsi:nil="true" />
+    <onecall:OnsiteContactName>Zooey Friedman</onecall:OnsiteContactName>
+    <onecall:OnsiteContactPhone>1231231234</onecall:OnsiteContactPhone>
+    <onecall:PrivateLocate>No</onecall:PrivateLocate>
+    <onecall:PetOnProperty>No</onecall:PetOnProperty>
+    <onecall:InBodyOfWater>No</onecall:InBodyOfWater>
+    <onecall:UrbanRural>Urban</onecall:UrbanRural>
+    <onecall:LotNoSubdivision>N/A</onecall:LotNoSubdivision>
+    <onecall:Latitude>42.632644</onecall:Latitude>
+    <onecall:Longitude>-83.202882</onecall:Longitude>
+    <onecall:Remarks>Installing in front yard</onecall:Remarks>
+  </onecall:LocationDetails>
+</onecall:OneCallReferral>

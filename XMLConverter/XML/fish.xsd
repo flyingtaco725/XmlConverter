@@ -1,0 +1,23 @@
+<xs:schema xmlns="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+	<xs:element name="Fish">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element maxOccurs="unbounded" ref="Fishies"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="Fishies" attribute name="id" type="integer">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="Species" />
+				<xs:element ref="Length"/>
+				<xs:element ref="Weight"/>
+				<xs:element ref="Color" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="Species" type="xs:string"/>
+	<xs:element name="Length" type="xs:double"/>
+	<xs:element name="Weight" type="xs:double"/>
+	<xs:element name="Color" type="xs:string"/>
+</xs:schema>

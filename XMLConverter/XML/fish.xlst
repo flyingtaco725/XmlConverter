@@ -1,0 +1,11 @@
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:template match="/">
+    <Cat>
+    <xsl:for-each select="Fish/Fishies">    
+        <Cats>
+		<xsl:value-of select="FirstName"/>
+	</Cats>
+        	</xsl:for-each>
+     </Cat>
+</xsl:template>
+</xsl:stylesheet>
